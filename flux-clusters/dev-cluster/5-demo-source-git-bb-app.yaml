@@ -1,0 +1,11 @@
+---
+apiVersion: source.toolkit.fluxcd.io/v1
+kind: GitRepository
+metadata:
+  name: 5-demo-source-git-bb-app
+  namespace: flux-system
+spec:
+  interval: 10s
+  ref:
+    branch: 5-demo
+  url: https://github.com/SujoyPathak/gitops-repo.git
