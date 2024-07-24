@@ -8,4 +8,4 @@ spec:
   interval: 10s
   ref:
     branch: 5-demo
-  url: https://github.com/SujoyPathak/gitops-repo.git
+  url: https://github.com/SujoyPathak/bb-app-source.git
