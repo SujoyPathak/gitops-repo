@@ -24,7 +24,7 @@ spec:
     labels:
       app:
         env: dev
-        name: bb-app
+        name: block-buster-helm-app
         version: 7.5.0
     nameOverride: ""
     namespace:
