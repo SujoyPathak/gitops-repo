@@ -10,4 +10,4 @@ spec:
   secretRef:
     name: slack-bot-token
   type: slack
-  username: sujoy.doc
+  username: flux-bot
